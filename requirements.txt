@@ -1,0 +1,6 @@
+flask
+pandas
+numpy
+scikit-learn
+joblib
+xgboost   # optional: only for  python train.py --model xgb
