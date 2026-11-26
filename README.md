@@ -1,7 +1,5 @@
 # Hybrid ML + Signature NIDS
 
-[![Architecture diagram of sumit-chand/hybrid-nids](https://gitdiagram.com/sumit-chand/hybrid-nids/diagram.png)](https://gitdiagram.com/sumit-chand/hybrid-nids?utm_source=readme&utm_medium=picture)
-
     pip install -r requirements.txt
     python train.py            # trains on ./data/*.csv (CIC-IDS2017) or synthetic flows if none
     python app.py              # dashboard at http://127.0.0.1:5000
